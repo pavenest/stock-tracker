@@ -1,9 +1,9 @@
 <?php
 
-namespace Pavenest\Swatch_Suite\System;
+namespace Pavenest\Stock_Tracker\System;
 
-use Pavenest\Swatch_Suite\Db\Migrator;
-use Pavenest\Swatch_Suite\Db\Seeder;
+use Pavenest\Stock_Tracker\Db\Migrator;
+use Pavenest\Stock_Tracker\Db\Seeder;
 
 class Installer
 {

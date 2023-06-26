@@ -1,6 +1,6 @@
 <?php
 
-namespace Pavenest\Swatch_Suite\Db;
+namespace Pavenest\Stock_Tracker\Db;
 
 class Seeder
 {

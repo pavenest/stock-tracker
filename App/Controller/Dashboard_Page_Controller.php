@@ -1,6 +1,6 @@
 <?php
 
-namespace Pavenest\Swatch_Suite\App\Controller;
+namespace Pavenest\Stock_Tracker\App\Controller;
 
 class Dashboard_Page_Controller
 {
@@ -25,8 +25,8 @@ class Dashboard_Page_Controller
         $cap = 'manage_options';
 
         add_menu_page(
-            esc_html__('Swatch Suite', 'swatch-suite'),
-            esc_html__('Swatch Suite', 'swatch-suite'),
+            esc_html__('Stock Tracker', 'swatch-suite'),
+            esc_html__('Stock Tracker', 'swatch-suite'),
             $cap,
             self::PARENT_SLUG,
             [$this, 'landing'],

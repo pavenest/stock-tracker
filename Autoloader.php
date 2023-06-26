@@ -1,6 +1,6 @@
 <?php
 
-namespace Pavenest\Swatch_Suite;
+namespace Pavenest\Stock_Tracker;
 
 defined('ABSPATH') || exit;
 

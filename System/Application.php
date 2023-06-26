@@ -1,6 +1,6 @@
 <?php
 
-namespace Pavenest\Swatch_Suite\System;
+namespace Pavenest\Stock_Tracker\System;
 
 
 class Application

@@ -1,7 +1,7 @@
 <?php
 
-use Pavenest\Swatch_Suite\System\Application;
-use Pavenest\Swatch_Suite\System\Installer;
+use Pavenest\Stock_Tracker\System\Application;
+use Pavenest\Stock_Tracker\System\Installer;
 
 return function($file) {
 
